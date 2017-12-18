@@ -1,7 +1,5 @@
 # Sample Scala/SBT application
 
-[![build status](https://gitlab.com/gitlab-examples/scala-sbt/badges/master/build.svg)](https://gitlab.com/gitlab-examples/scala-sbt/commits/master)
-
 A sample application to demonstrate Scala/SBT continuous integration in Gitlab.
 
 ## Versions
